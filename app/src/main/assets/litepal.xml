@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="peas_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.peasweather.peasweather.db.Province"/>
+        <mapping class="com.peasweather.peasweather.db.County"/>
+        <mapping class="com.peasweather.peasweather.db.City"/>
+
+    </list>
+</litepal>
